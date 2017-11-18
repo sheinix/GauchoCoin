@@ -1,7 +1,7 @@
 # GauchoCoin
 ## This a test cryptocurrency running on the Ethereum Test network Ropsten
 
-Is meant to be an example of what is on the Ethereum tuorial page of cryptocurrencies https://ethereum.org/token. The same code can be found over there. 
+Is meant to be an example of what is on the Ethereum tutorial page of cryptocurrencies https://ethereum.org/token. The same code can be found over there. 
 
 I have put it all together and created the **GauchoCoin** with a limited total supply of 1.000.000 coins with 18 decimals. 
 
