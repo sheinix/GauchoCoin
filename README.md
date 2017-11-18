@@ -20,3 +20,14 @@ In order to be able to send and receive **GauchoCoin** you have to follow the ne
  
  
  NOTE: If you need some Ether on your wallet, you can either mine from your Mist wallet -> Develop Menu -> Start Mining (not recommended) or use an Ethereum faucet like [Metamask]: https://metamask.io
+
+### Executing the Contract
+
+1. Go to your Wallet Account
+2. Click on Watch Contract
+3. Fill the data for executing the contract:
+  - Contract Address: `0x3225F1929814cC19334172cE668eE5C4BD2367f0`
+  - Contract Name : GauchoCoin
+  - JSON Interface: `...copy and paste the ContractInterface.json file...`
+4. Now you should be able to execute some of the Contract Functions
+5. Use you can use the [Ropsten etherscan] : https://ropsten.etherscan.io to check the transactions on the testnet
