@@ -12,7 +12,7 @@ In order to be able to send and receive **GauchoCoin** you have to follow the ne
 2. Ensure you are connected to the test network **Ropsten**
 3. Go to your Main Account -> Contracts -> Click on "Watch Token"
 4. Fill the data for adding a custom token:
-  - Token Contract Address:  0x3225F1929814cC19334172cE668eE5C4BD2367f0
+  - Token Contract Address: `0x3225F1929814cC19334172cE668eE5C4BD2367f0`
   - Token Name: GauchoCoin
   - Token Symbol: GHC
   - Decimals Places of Smallest Unit: 18
