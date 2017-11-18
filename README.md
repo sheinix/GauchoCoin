@@ -30,4 +30,4 @@ In order to be able to send and receive **GauchoCoin** you have to follow the ne
   - Contract Name : GauchoCoin
   - JSON Interface: `...copy and paste the ContractInterface.json file...`
 4. Now you should be able to execute some of the Contract Functions
-5. Use you can use the [Ropsten etherscan] : https://ropsten.etherscan.io to check the transactions on the testnet
+5. You can use the [Ropsten etherscan] : https://ropsten.etherscan.io to check the transactions on the testnet
